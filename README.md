@@ -60,12 +60,12 @@
   <img src="https://github.com/user-attachments/assets/75333070-afee-419e-8837-4e3bd11e34c8" alt="Program Studi" width="80%">
 </div>
 
-### 📚 PPDB
+### 📚 PPDB / SPMB
 <div align="center">
   <img src="https://github.com/user-attachments/assets/713d2033-b3c4-4d75-bcc5-cda41a39975e" alt="PPDB Online" width="80%">
 </div>
 
-### 📖 Perpustakaan
+### 📖 Berita
 <div align="center">
   <img src="https://github.com/user-attachments/assets/cc196367-86c9-415b-85a2-998c33f555b8" alt="Perpustakaan" width="80%">
 </div>
